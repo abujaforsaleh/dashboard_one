@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace 'com.hurricanedev.loginui'
-    compileSdk 32
+    namespace 'com.example.dashboard_project'
+    compileSdk 34
 
     defaultConfig {
-        applicationId "com.hurricanedev.loginui"
+        applicationId "com.example.dashboard_project"
         minSdk 23
-        targetSdk 32
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
